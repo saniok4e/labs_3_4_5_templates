@@ -1,0 +1,5 @@
+﻿  String_function.cpp
+  file_size.cpp
+C:\Users\sanio\source\repos\Lab_1_Seminars_3_4_5\Lab_1_Seminars_3_4_5\file_size.cpp(7,22): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  Создание кода...
+  Lab_1_Seminars_3_4_5.vcxproj -> C:\Users\sanio\source\repos\Lab_1_Seminars_3_4_5\Debug\Lab_1_Seminars_3_4_5.exe

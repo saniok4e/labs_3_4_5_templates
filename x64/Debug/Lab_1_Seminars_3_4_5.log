@@ -1,0 +1,28 @@
+﻿  Main_menu.cpp
+C:\Users\sanio\source\repos\Lab_1_Seminars_3_4_5templ\Lab_1_Seminars_3_4_5\Sem_3_logic.h(15,7): warning C4101: choose: неиспользованная локальная переменная
+C:\Users\sanio\source\repos\Lab_1_Seminars_3_4_5templ\Lab_1_Seminars_3_4_5\Main_sem3.h(23): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Sem_3_logic<T>(T *,int)"
+          with
+          [
+              T=double
+          ]
+C:\Users\sanio\source\repos\Lab_1_Seminars_3_4_5templ\Lab_1_Seminars_3_4_5\Main_menu.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Main_Sem_3<double>(T)"
+          with
+          [
+              T=double
+          ]
+C:\Users\sanio\source\repos\Lab_1_Seminars_3_4_5templ\Lab_1_Seminars_3_4_5\Sum_after_maximum.h(21,10): warning C4244: return: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+C:\Users\sanio\source\repos\Lab_1_Seminars_3_4_5templ\Lab_1_Seminars_3_4_5\Sem_3_logic.h(35): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Sum_after_maximum<T>(T *,int,int)"
+          with
+          [
+              T=double
+          ]
+C:\Users\sanio\source\repos\Lab_1_Seminars_3_4_5templ\Lab_1_Seminars_3_4_5\Main_sem3.h(23): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Sem_3_logic<T>(T *,int)"
+          with
+          [
+              T=double
+          ]
+  Lab_1_Seminars_3_4_5.vcxproj -> C:\Users\sanio\source\repos\Lab_1_Seminars_3_4_5templ\x64\Debug\Lab_1_Seminars_3_4_5.exe

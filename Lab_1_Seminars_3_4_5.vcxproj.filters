@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem_3">
+      <UniqueIdentifier>{57507dad-c73c-41f0-8372-dbb3b3f3b694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem_4">
+      <UniqueIdentifier>{a0eeabfa-c5c5-48c1-9039-cb8c72b75b87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem_5">
+      <UniqueIdentifier>{5d1c48a0-e9e3-4ae0-9b5e-453b2c0ab441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Main_Menu">
+      <UniqueIdentifier>{440afa9a-2c3d-449c-9672-5d7cb9ac4839}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem_3\Array functions">
+      <UniqueIdentifier>{b61811df-5bc2-4681-8272-6e507641752c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Файлы заголовков\sem_3">
+      <UniqueIdentifier>{a85af3ee-1395-48b7-9d91-28ff2b9df41f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Файлы заголовков\sem_4">
+      <UniqueIdentifier>{cdc0efd5-3966-4a09-858b-1e49ccbf5b49}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Menu_choose.cpp">
+      <Filter>Исходные файлы\Main_Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_menu.cpp">
+      <Filter>Исходные файлы\Main_Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Исходные файлы\Main_Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Get_number.cpp">
+      <Filter>Исходные файлы\Sem_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Get_size_of_array.cpp">
+      <Filter>Исходные файлы\Sem_3\Array functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Size_of_two_dimensional_array.cpp">
+      <Filter>Исходные файлы\Sem_4</Filter>
+    </ClCompile>
+    <ClCompile Include="Get_mode.cpp">
+      <Filter>Исходные файлы\Sem_4</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_sem_5.cpp">
+      <Filter>Исходные файлы\Sem_5</Filter>
+    </ClCompile>
+    <ClCompile Include="String_function.cpp">
+      <Filter>Исходные файлы\Sem_5</Filter>
+    </ClCompile>
+    <ClCompile Include="Show_menu_sem_3.cpp">
+      <Filter>Исходные файлы\Sem_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Show_main_menu.cpp">
+      <Filter>Исходные файлы\Main_Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="file_size.cpp">
+      <Filter>Исходные файлы\Sem_5</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Libraries.h">
+      <Filter>Файлы ресурсов\Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Prototypes.h">
+      <Filter>Файлы ресурсов\Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="templates.h">
+      <Filter>Файлы ресурсов\Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Sem_3_logic.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Create_one_dimensional_array.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Fill_array.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Output_one_dimensional_array.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="abs_selection_sort.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Get_borders.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Show_index_between_borders.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Find_maximum_element.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Show_indexes_of_maximums.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Choose_index.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Sum_after_maximum.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Create_two_dimensional_array.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_4</Filter>
+    </ClInclude>
+    <ClInclude Include="Fill_two_dimensional_array.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_4</Filter>
+    </ClInclude>
+    <ClInclude Include="Output_two_dimensional_array.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_4</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_shift_0_mode.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_4</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_shift_1_mode.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_4</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_sem3.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_sem4.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_4</Filter>
+    </ClInclude>
+    <ClInclude Include="get_num_template.h">
+      <Filter>Файлы ресурсов\Файлы заголовков\sem_3</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
